@@ -1,0 +1,9 @@
+!x: 2
+#y: 2
+Zebra: 2
+a: 1
+apple: 2
+cat: 1
+dog: 1
+end: 3
+the: 1, 3
